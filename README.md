@@ -10,6 +10,6 @@ The folder Gold_data contains the following two manually annotated texts with al
 Entities were annotated and linked by Evelien de Graaf and Margherita Fantoli.
 
 # Fuzzy matching
-The Jupyter notebook contains an explenation and illustration of the Fuzzy-matching process used in the paper. The full pipeline illustration can be found below.
+The Jupyter notebook contains an explanation and illustration of the Fuzzy-matching process used in the paper. The full pipeline illustration can be found below.
 
 ![NEL_pipeline_illustration](https://github.com/evelien-degraaf/Named-Entity-Linking-Latin-DAAL-2024/assets/127041405/07fdb0ce-6dd2-43ef-900f-e04acb7b1f40)

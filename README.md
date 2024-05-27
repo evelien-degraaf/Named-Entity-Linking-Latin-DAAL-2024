@@ -12,4 +12,5 @@ Entities were annotated and linked by Evelien de Graaf and Margherita Fantoli.
 # Fuzzy matching
 The Jupyter notebook contains an explanation and illustration of the Fuzzy-matching process used in the paper. The full pipeline illustration can be found below.
 
-![NEL_pipeline_illustration](https://github.com/evelien-degraaf/Named-Entity-Linking-Latin-DAAL-2024/assets/127041405/07fdb0ce-6dd2-43ef-900f-e04acb7b1f40)
+
+![NEL_pipeline_illustration](https://github.com/evelien-degraaf/Named-Entity-Linking-Latin-DAAL-2024/assets/127041405/e706d706-e523-472b-a61c-b07ea4bfca52)

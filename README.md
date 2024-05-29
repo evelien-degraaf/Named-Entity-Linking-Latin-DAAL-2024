@@ -10,7 +10,9 @@ The folder Gold_data contains the following two manually annotated texts with al
 Entities were annotated and linked by Evelien de Graaf and Margherita Fantoli.
 
 # Fuzzy matching
-The Jupyter notebook contains an explanation and illustration of the Fuzzy-matching process used in the paper. The full pipeline illustration can be found below.
+The Jupyter notebook (Fuzzy matching - Latin NEL.ipynb) contains an explanation and illustration of the Fuzzy-matching process used in the paper. It contains a detailed description of the use of RapidFuzz for fuzzy matching and the exact code for the multi-token layer.
+
+The full pipeline illustration can be found below.
 
 
 

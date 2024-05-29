@@ -9,6 +9,26 @@ The folder Gold_data contains the following two manually annotated texts with al
 - Ammianus Marcellinus, _Res Gestae_ XIV ([LTA edition](https://lta.bbaw.de/text/show/24819722_ammianus_marcellinus_res_gestae)), automatically transformed from XML to CSV and appended Token_URIs
 Entities were annotated and linked by Evelien de Graaf and Margherita Fantoli.
 
+# Name dictionaries
+The name dictionary created from the _RE_ as described in the paper is available here in two formats:
+- **Standard name dictionary**:
+|Key (name) |Value (re_id) |
+--- | --- |
+|Iulius|Iulius 1 (RE-Iulius_1)|
+| | ... |
+| | Iulius 16 (RE-Iulius_16) etc.|
+|C. Iulius|Iulius 16 (RE-Iulius_16)|
+|Gaius Iulius|Iulius 16 (RE-Iulius_16)|
+- ID-dictionary
+|Key (re_id) |Value (potential surface forms) |
+--- | --- |
+|RE-Iulius_1|Iulius|
+| | Iunius |
+|RE-Iulius_16|C. Iulius|
+| |Caius Iulius|
+| |Caius|
+| |Iulius|
+
 # Fuzzy matching
 The Jupyter notebook (Fuzzy matching - Latin NEL.ipynb) contains an explanation and illustration of the Fuzzy-matching process used in the paper. It contains a detailed description of the use of RapidFuzz for fuzzy matching and the exact code for the multi-token layer.
 

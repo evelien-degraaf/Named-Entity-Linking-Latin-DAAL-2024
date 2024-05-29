@@ -22,14 +22,15 @@ The name dictionary created from the _RE_ as described in the paper is available
 | Gaius Iulius | Iulius 16 (RE-Iulius_16)    |
 
 - ID-dictionary
-|Key (re_id) |Value (potential surface forms) |
---- | --- |
-|RE-Iulius_1|Iulius|
-| | Iunius |
-|RE-Iulius_16|C. Iulius|
-| |Caius Iulius|
-| |Caius|
-| |Iulius|
+
+| Key (re_id)  | Value (potential surface forms) |
+|--------------|---------------------------------|
+| RE-Iulius_1  | Iulius                          |
+|              | Iunius                          |
+| RE-Iulius_16 | C. Iulius                       |
+|              | Caius Iulius                    |
+|              | Caius                           |
+|              | Iulius                          |
 
 # Fuzzy matching
 The Jupyter notebook (Fuzzy matching - Latin NEL.ipynb) contains an explanation and illustration of the Fuzzy-matching process used in the paper. It contains a detailed description of the use of RapidFuzz for fuzzy matching and the exact code for the multi-token layer.

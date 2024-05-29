@@ -12,13 +12,15 @@ Entities were annotated and linked by Evelien de Graaf and Margherita Fantoli.
 # Name dictionaries
 The name dictionary created from the _RE_ as described in the paper is available here in two formats:
 - **Standard name dictionary**:
-|Key (name) |Value (re_id) |
---- | --- |
-|Iulius|Iulius 1 (RE-Iulius_1)|
-| | ... |
-| | Iulius 16 (RE-Iulius_16) etc.|
-|C. Iulius|Iulius 16 (RE-Iulius_16)|
-|Gaius Iulius|Iulius 16 (RE-Iulius_16)|
+  
+| Key (name)   | Value (re_id)               |
+|--------------|-----------------------------|
+| Iulius       | Iulius 1 (RE-Iulius_1)      |
+|              | ...                         |
+|              | Iulius 16 (RE-Iulius_16) etc. |
+| C. Iulius    | Iulius 16 (RE-Iulius_16)    |
+| Gaius Iulius | Iulius 16 (RE-Iulius_16)    |
+
 - ID-dictionary
 |Key (re_id) |Value (potential surface forms) |
 --- | --- |
